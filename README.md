@@ -1,2 +1,2 @@
-# machineLearning_python
+# Machine Learning
 Python implementation of Andrew Ng's machine learning course
